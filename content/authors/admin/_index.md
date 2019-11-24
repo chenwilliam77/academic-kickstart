@@ -38,7 +38,7 @@ education:
     year: 2018
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
@@ -62,23 +62,23 @@ social:
   link: https://github.com/rsarfati
 
 # Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-  
+
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
+#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
 - Visitors
 ---
 
-I am a senior research analyst at the NY Fed, working with the dynamic stochastic general equilibrium (DSGE) team on academic research, policy analysis, forecasting, and model development. 
+I am a senior research analyst at the NY Fed, working with the dynamic stochastic general equilibrium (DSGE) team on academic research, policy analysis, forecasting, and model development.
 
-I am also a lead developer of [DSGE.jl](https://github.com/FRBNY-DSGE/DSGE.jl), a [Julia](https://julialang.org/) package for solving, estimating, and forecasting DSGE models, as well as [SMC.jl](https://github.com/FRBNY-DSGE/SMC.jl), which implements sequential Monte Carlo (SMC) sampling for approximation of posterior distributions. 
+I am also a lead developer of [DSGE.jl](https://github.com/FRBNY-DSGE/DSGE.jl), a [Julia](https://julialang.org/) package for solving, estimating, and forecasting DSGE models, as well as [SMC.jl](https://github.com/FRBNY-DSGE/SMC.jl), which implements sequential Monte Carlo (SMC) sampling for approximation of posterior distributions.
 
 *All views expressed are my own, and do not reflect those of the Federal Reserve Bank of New York nor Federal Reserve System.*
